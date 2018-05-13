@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">OnBoardingDemo</string>
+
+    <!-- OnBoard Screen. -->
+
+    <string name="ob_header1">Capture, Tag and Upload</string>
+    <string name="ob_header2">Instant measures</string>
+    <string name="ob_header3">Let our rivers live</string>
+
+    <string name="ob_get_started">GET STARTED</string>
+
+    <string name="ob_desc1">Capture the polluted faces of our rivers, tag the location and upload it !!</string>
+    <string name="ob_desc2">Our local authorities will take measures on it !!</string>
+    <string name="ob_desc3">Let us tag to save our dying rivers !!</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
